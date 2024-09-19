@@ -1,1 +1,3 @@
 # Marks-Predictor-using-Plot
+
+This Python code analyzes the relationship between students' study habits and their academic performance using linear regression. It begins by importing libraries such as NumPy, Pandas, and Plotly. The dataset "Student_Marks.csv" is loaded to visualize how study time and the number of courses affect marks through a scatter plot with a trendline. The data is split into training and testing sets (80% training, 20% testing), and a linear regression model is fitted to the training data. The model's accuracy is evaluated, and it is used to predict marks for a specific study time and number of courses, helping educators understand factors influencing student performance.
